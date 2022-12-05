@@ -1,0 +1,27 @@
+.ingredients {
+    display: flex;
+    flex-direction: column;
+}
+
+.ingredients li {
+    margin: 10px;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.salmon {
+    height: 500px;
+    width: 500px;
+    margin: 0;
+    padding: 0;
+    border: 2px solid rebeccapurple;
+}
+
+h1 {
+    border: 2px solid blue;
+}
